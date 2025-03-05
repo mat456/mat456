@@ -61,6 +61,14 @@
   Numpy
 </h5>
 
+<h5 align="center">
+  <div>
+    <img height="40" src="https://github.com/user-attachments/assets/b1b87607-40d1-48f4-b328-611df874980d">
+  </div>
+  Pandas
+</h5>
+
+
 
 <p><H4 align="center"> Other languages and tools </p>
   
