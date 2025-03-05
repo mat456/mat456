@@ -70,6 +70,6 @@
       <div align="center">
     </p>
 
-[![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat456)](https://github.com/mat456/github-readme-stats&theme=radical)
+[![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat456)](https://github.com/mat456/github-readme-stats&theme=dark)
 
   
