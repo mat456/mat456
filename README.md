@@ -60,10 +60,11 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
-
-  <code><img height="40" src="https://github.com/user-attachments/assets/b408b784-fa46-4103-b942-0924079412e3"></code>
-  <code><img height="40" src="https://github.com/user-attachments/assets/acd0f366-963c-4519-9650-0a27753f7bd2"></code>
+  
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/acd0f366-963c-4519-9650-0a27753f7bd2"></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/b408b784-fa46-4103-b942-0924079412e3"></code>
+  
 
 
   </p>
