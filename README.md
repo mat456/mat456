@@ -41,10 +41,10 @@
 <!-- Background -->
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://github.com/user-attachments/assets/88cd17ca-6797-4f14-aafd-aa8be65dbbac)
-
-&nbsp;
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/88cd17ca-6797-4f14-aafd-aa8be65dbbac" 
+       width="500px">
+</div>
 
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
