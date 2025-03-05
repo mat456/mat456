@@ -43,7 +43,7 @@
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 <div align="center">
   <img src="https://github.com/user-attachments/assets/ff8c0425-24ed-4874-b32c-f88a742eb970" 
-       width="250px">
+       width="500px">
 </div>
 
 <!-- Technical Skills -->
