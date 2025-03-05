@@ -60,9 +60,8 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
-![Image](https://github.com/user-attachments/assets/fefeb190-a11e-444d-a450-5f6fbffba6ed)
 
-  <code><img height="40" src="[https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png](https://github.com/user-attachments/assets/fefeb190-a11e-444d-a450-5f6fbffba6ed)"></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/acd0f366-963c-4519-9650-0a27753f7bd2"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
