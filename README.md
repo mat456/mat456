@@ -60,7 +60,7 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
-
+  <code><img height="40" src="https://github.com/user-attachments/assets/3f3dd76e-aac0-43c4-be6a-b24c65a157b7"></code>
   <code><img height="40" src="https://github.com/user-attachments/assets/acd0f366-963c-4519-9650-0a27753f7bd2"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
   <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
