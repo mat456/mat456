@@ -50,7 +50,7 @@
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
 
-<h4 align="left">
+<h4 align="center">
   Python 
 </h4>
 
