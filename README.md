@@ -6,7 +6,7 @@
 
 
 <!-- Quote -->
-<p align="center">I'm Data Analyst 
+<p align="center">As Data Analyst, I particulary enjoy football analytics
   
   <!-- Social Network -->
 
