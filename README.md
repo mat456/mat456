@@ -72,6 +72,4 @@
 
 [![Mat's GitHub stats](https://github-readme-stats.vercel.app/api?username=mat456&theme=dark&hide=prs,issues)](https://github.com/mat456/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mat456)](https://github.com/mat456/github-readme-stats)
-
   
