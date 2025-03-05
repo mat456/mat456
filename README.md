@@ -54,17 +54,20 @@
   Python 
 </h4>
 
-<h5 align="center">
-  <span>
-    <img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4"><br>
-    Numpy
-  </span>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Espacement entre les logos -->
-  <span>
-    <img height="40" src="https://github.com/user-attachments/assets/b1b87607-40d1-48f4-b328-611df874980d"><br>
-    Pandas
-  </span>
-</h5>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4"><br>
+      Numpy
+    </td>
+    <td width="50px"></td> <!-- Espacement -->
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/b1b87607-40d1-48f4-b328-611df874980d"><br>
+      Pandas
+    </td>
+  </tr>
+</table>
+
 
 
 
