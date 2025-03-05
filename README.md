@@ -54,11 +54,13 @@
   Python 
 </h4>
 
-<p><H4 align="center"> 
+<h4 align="center">
+  <div>
+    <img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4">
+  </div>
+  Numpy
+</h4>
 
-<code><img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4"></code>
-
-</p>
 
 <p><H4 align="center"> Other languages and tools </p>
   
