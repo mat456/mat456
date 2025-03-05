@@ -42,7 +42,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/88cd17ca-6797-4f14-aafd-aa8be65dbbac" 
+  <img src="https://github.com/user-attachments/assets/88cd17ca-6797-4f14-aafd-aa8be65dbbac](https://github.com/user-attachments/assets/c264ffaa-6349-4ff8-bf18-82e5074e2cab" 
        width="250px">
 </div>
 
