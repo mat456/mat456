@@ -42,7 +42,7 @@
 
 <!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker]([https://github.com/user-attachments/files/19089452/Animation.-.1741179804369.json](https://github.com/user-attachments/assets/79868cb1-a246-48e6-87a5-1215d13d577d))
+![ezgif com-gif-maker](https://github.com/user-attachments/assets/88cd17ca-6797-4f14-aafd-aa8be65dbbac)
 
 &nbsp;
 
