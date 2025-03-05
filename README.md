@@ -24,11 +24,11 @@
        src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
   </a>
   
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
+<a href="https://medium.com/@mathieu.lengrand">
   <img align="center" 
-       alt="Stack Overflow" 
+       alt="Medium" 
        width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
+       src="https://github.com/user-attachments/assets/e85bbd22-53f4-43f9-95fa-8f4dd767983b" />
   </a>
   
 <a href="mailto:mathieu.lengrand@gmail.com">
