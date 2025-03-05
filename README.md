@@ -49,11 +49,13 @@
 <!-- Technical Skills -->
 <p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
 
+
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img height="40" src="https://github.com/user-attachments/assets/acd0f366-963c-4519-9650-0a27753f7bd2"></code>
   <code><img height="40" src="https://github.com/user-attachments/assets/b408b784-fa46-4103-b942-0924079412e3"></code>
   <code><img height="40" src="https://github.com/user-attachments/assets/096b1795-2d50-4992-bd8f-6c3b57cb2e15"></code>
-  
+  <code><img height="40" src="https://github.com/user-attachments/assets/7c8798fd-5841-4a4d-b926-21514da475af"></code>
+  <code><img height="40" src="https://github.com/user-attachments/assets/6deeb8bc-1dae-4ae1-a9a7-665d1e983e52"></code>
 
 
   </p>
