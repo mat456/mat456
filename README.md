@@ -55,7 +55,7 @@
   <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </h4>
 
-<p><H4 align="center"> Other languages and tools 
+<p><H4 align="center"> 
 
 <code><img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4"></code>
 
