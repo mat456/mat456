@@ -72,8 +72,13 @@
       <img height="40" src="https://github.com/user-attachments/assets/7ce81b5e-e7f3-4b29-ae8a-c58c2d83e3b9"><br>
       Matplotlib
     </td>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/7054d27a-c780-4014-94d1-9957204b445f"><br>
+      Matplotlib
+    </td>
   </tr>
 </table>
+
 
 
 
