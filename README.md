@@ -64,9 +64,12 @@
       <img height="40" src="https://github.com/user-attachments/assets/b1b87607-40d1-48f4-b328-611df874980d"><br>
       Pandas
     </td>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/7fddc2d4-8e27-4ed1-bfe6-34c015327fee"><br>
+      Matplotlib
+    </td>
   </tr>
 </table>
-
 
 
 
