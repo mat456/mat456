@@ -58,31 +58,24 @@
   <tr>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/4c280a55-7ae0-4c90-b511-f230f0194bf4"><br>
-      Numpy
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/b1b87607-40d1-48f4-b328-611df874980d"><br>
-      Pandas
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/7fddc2d4-8e27-4ed1-bfe6-34c015327fee"><br>
-      Matplotlib
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/7ce81b5e-e7f3-4b29-ae8a-c58c2d83e3b9"><br>
-      Matplotlib
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/7054d27a-c780-4014-94d1-9957204b445f"><br>
-      Matplotlib
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/76fcf8d2-6649-4912-84e9-2dee09a141e6"><br>
-      Matplotlib
     </td>
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/5d47dd97-bda7-4aa8-8ab2-78bbe45e1ef3"><br>
-      Matplotlib
     </td>
   </tr>
 </table>
