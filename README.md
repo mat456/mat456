@@ -75,10 +75,10 @@
       <img height="40" src="https://github.com/user-attachments/assets/76fcf8d2-6649-4912-84e9-2dee09a141e6"><br>
     </td>
     <td align="center">
-      <img height="40" src="https://github.com/user-attachments/assets/5d47dd97-bda7-4aa8-8ab2-78bbe45e1ef3"><br>
+      <img height="40" src="https://github.com/user-attachments/assets/a55728a0-f85c-4b95-b904-d82df259aee7"><br>
     </td>
     <td align="center">
-      <img height="40" src="https://github.com/user-attachments/assets/a55728a0-f85c-4b95-b904-d82df259aee7"><br>
+      <img height="40" src="https://github.com/user-attachments/assets/5d47dd97-bda7-4aa8-8ab2-78bbe45e1ef3"><br>
     </td>
   </tr>
 </table>
