@@ -77,6 +77,9 @@
     <td align="center">
       <img height="40" src="https://github.com/user-attachments/assets/5d47dd97-bda7-4aa8-8ab2-78bbe45e1ef3"><br>
     </td>
+    <td align="center">
+      <img height="40" src="https://github.com/user-attachments/assets/a55728a0-f85c-4b95-b904-d82df259aee7"><br>
+    </td>
   </tr>
 </table>
 
