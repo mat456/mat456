@@ -4,6 +4,10 @@
 
 I turn complex and imperfect data into reliable datasets, clear analyses and decision-ready visualizations.
 
+I have a particular interest in **data visualization and data storytelling**, and I enjoy exploring new ways to make complex information intuitive and engaging.
+
+I'm also passionate about **football analytics**, which I use as a playground for experimenting with event data, predictive models and interactive visualizations.
+
 My background combines **data analytics, actuarial consulting and business reporting**, with a strong focus on:
 
 - Data analysis & automation
@@ -63,7 +67,9 @@ Interactive data visualization project designed to represent how the balance of 
 
 I'm a Data Analyst with several years of experience working with business data, reporting and data quality topics.
 
-I particularly enjoy projects where the challenge is not only to analyze the data, but also to **structure messy information, define meaningful metrics and communicate the results clearly**.
+I particularly enjoy projects where the challenge is not only to analyze the data, but also to **structure messy information, define meaningful metrics and communicate the results clearly through data visualization**.
+
+Outside of business analytics, I have a strong interest in **football analytics** and regularly experiment with football event data, predictive modelling and interactive visualizations.
 
 📍 France  
 🌍 French / English
