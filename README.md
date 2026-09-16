@@ -1,6 +1,7 @@
 # Hi, I'm Mathieu 👋
 
 ### Data Analyst | Python · SQL · Tableau · Streamlit
+🌐 [View my portfolio](https://mat-dataportfolio.netlify.app)
 
 I turn complex and imperfect data into reliable datasets, clear analyses and decision-ready visualizations.
 
